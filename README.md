@@ -191,14 +191,20 @@ Tap RFID card
 
 Attendance recorded instantly
 
-📊 Serial Monitor Output
+---
+
+##📊 Serial Monitor Output
+```serial
 Connecting to WiFi...
 WiFi Connected
 Card Detected
 UID: 4A 8F 2C 91
 Sending data to server...
 Attendance Recorded Successfully
-🌍 Applications
+```
+---
+
+##🌍 Applications
 
 🏫 Schools & Universities
 🏢 Corporate Offices
@@ -207,7 +213,9 @@ Attendance Recorded Successfully
 🎟️ Event Management
 🏠 Smart Access Control
 
-🔮 Future Enhancements
+---
+
+##🔮 Future Enhancements
 
 🔔 Buzzer / LED feedback
 📟 LCD or OLED display
@@ -217,7 +225,9 @@ Attendance Recorded Successfully
 🔐 Secure authentication
 📡 Offline mode with sync
 
-🧪 Technical Advantages
+---
+
+##🧪 Technical Advantages
 
 ✔ Low power consumption
 ✔ Minimal hardware cost
@@ -226,15 +236,19 @@ Attendance Recorded Successfully
 ✔ Modular design
 ✔ Production-ready architecture
 
-👨‍💻 Author
+---
 
-Azmain Sheikh Rubayed
+##👨‍💻 Author
+
+###Azmain Sheikh Rubayed
 
 💻 Software Developer
 🤖 Machine Learning & Robotics Enthusiast
 📡 IoT System Builder
 
-🤝 Contributing
+---
+
+##🤝 Contributing
 
 Contributions are welcome!
 
@@ -246,7 +260,9 @@ Commit changes
 
 Submit a Pull Request
 
-⭐ Support
+---
+
+##⭐ Support
 
 If you found this project useful:
 
@@ -254,8 +270,9 @@ If you found this project useful:
 🍴 Fork it
 📢 Share with others
 
-📜 License
+---
 
+##📜 License
 This project is open-source and free to use for educational and commercial purposes.
-
-<p align="center"> <b>🚀 Built for the future of smart automation</b> </p> <!-- ========================================================= --> <!-- END OF SUPREME README --> <!-- ========================================================= -->
+<p align="center"> <b>🚀 Built for the future of smart automation</b> </p> 
+<!-- ========================================================= --> <!-- END OF SUPREME README --> <!-- ========================================================= -->
