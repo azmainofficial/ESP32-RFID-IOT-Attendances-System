@@ -173,27 +173,23 @@ const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
 const char* serverURL = "YOUR_API_ENDPOINT";
 ```
-4️⃣ Upload Code
+### 4️⃣ Upload Code
 
 Connect ESP32
-
 Select board & port
-
 Click Upload
 
-▶️ Usage
+### ▶️ Usage
 
 Power on the device
-
 Wait for Wi-Fi connection
-
 Tap RFID card
 
 Attendance recorded instantly
 
 ---
 
-##📊 Serial Monitor Output
+## 📊 Serial Monitor Output
 ```serial
 Connecting to WiFi...
 WiFi Connected
@@ -204,7 +200,7 @@ Attendance Recorded Successfully
 ```
 ---
 
-##🌍 Applications
+## 🌍 Applications
 
 🏫 Schools & Universities
 🏢 Corporate Offices
@@ -215,7 +211,7 @@ Attendance Recorded Successfully
 
 ---
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 🔔 Buzzer / LED feedback
 📟 LCD or OLED display
@@ -227,7 +223,7 @@ Attendance Recorded Successfully
 
 ---
 
-##🧪 Technical Advantages
+## 🧪 Technical Advantages
 
 ✔ Low power consumption
 ✔ Minimal hardware cost
@@ -238,7 +234,7 @@ Attendance Recorded Successfully
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 ###Azmain Sheikh Rubayed
 
@@ -248,16 +244,12 @@ Attendance Recorded Successfully
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
-
 Fork the repository
-
 Create a new branch
-
 Commit changes
-
 Submit a Pull Request
 
 ---
@@ -272,7 +264,7 @@ If you found this project useful:
 
 ---
 
-##📜 License
+## 📜 License
 This project is open-source and free to use for educational and commercial purposes.
 <p align="center"> <b>🚀 Built for the future of smart automation</b> </p> 
 <!-- ========================================================= --> <!-- END OF SUPREME README --> <!-- ========================================================= -->
